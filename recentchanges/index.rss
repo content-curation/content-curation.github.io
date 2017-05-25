@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>RecentChanges</title>
+<link>http://content-curation.github.io//recentchanges/</link>
+
+<description>Content Curation</description>
+<generator>ikiwiki</generator>
+<pubDate>Thu, 25 May 2017 22:08:00 +0000</pubDate>
+<item>
+	<title>change to .travis.yml content-curation.setup on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_0766a45d126788e0f9f999c1a7d4c95a9eba5e67/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-0766a45d126788e0f9f999c1a7d4c95a9eba5e67</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 22:08:00 +0000</pubDate>
+	<dcterms:modified>2017-05-25T22:08:00Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-0766a45d126788e0f9f999c1a7d4c95a9eba5e67&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/0766a45d126788e0f9f999c1a7d4c95a9eba5e67&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.travis.yml
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/0766a45d126788e0f9f999c1a7d4c95a9eba5e67&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;content-curation.setup
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:08:00 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update ikiwiki settings&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 0766a45d126788e0f9f999c1a7d4c95a9eba5e67 --&gt;
+</description>
+
+
+</item>
+<item>
+	<title>change to .gitmodules .ikiwiki-plugins/p5-IkiWiki-Plugin-github on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_660db433d736ccab2515a6c513e7a64daa52537b/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-660db433d736ccab2515a6c513e7a64daa52537b</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 22:03:28 +0000</pubDate>
+	<dcterms:modified>2017-05-25T22:03:28Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-660db433d736ccab2515a6c513e7a64daa52537b&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/660db433d736ccab2515a6c513e7a64daa52537b&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.gitmodules
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/660db433d736ccab2515a6c513e7a64daa52537b&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.ikiwiki-plugins/p5-IkiWiki-Plugin-github
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:03:28 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add github plugin&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 660db433d736ccab2515a6c513e7a64daa52537b --&gt;
+</description>
+
+
+</item>
+<item>
+	<title>change to .travis.yml on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_71a8c34938eff20b1eac0676bc20851ac357d428/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-71a8c34938eff20b1eac0676bc20851ac357d428</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 22:03:19 +0000</pubDate>
+	<dcterms:modified>2017-05-25T22:03:19Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-71a8c34938eff20b1eac0676bc20851ac357d428&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/71a8c34938eff20b1eac0676bc20851ac357d428&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.travis.yml
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:03:19 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add SVG support for img plugin&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 71a8c34938eff20b1eac0676bc20851ac357d428 --&gt;
+</description>
+
+
+</item>
+<item>
+	<title>change to index on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_87be7bfdf1fe02adc7701a8af2cd795af19d60dc/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-87be7bfdf1fe02adc7701a8af2cd795af19d60dc</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 21:44:24 +0000</pubDate>
+	<dcterms:modified>2017-05-25T21:44:24Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-87be7bfdf1fe02adc7701a8af2cd795af19d60dc&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/87be7bfdf1fe02adc7701a8af2cd795af19d60dc&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;index
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:44:24 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add index&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 87be7bfdf1fe02adc7701a8af2cd795af19d60dc --&gt;
+</description>
+
+
+</item>
+<item>
+	<title>change to .travis.yml on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_229f310068de8ba8a3a1fe16b672eea5102c8934/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-229f310068de8ba8a3a1fe16b672eea5102c8934</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 21:43:59 +0000</pubDate>
+	<dcterms:modified>2017-05-25T21:43:59Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-229f310068de8ba8a3a1fe16b672eea5102c8934&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/229f310068de8ba8a3a1fe16b672eea5102c8934&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.travis.yml
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:43:59 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update Travis CI settings&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 229f310068de8ba8a3a1fe16b672eea5102c8934 --&gt;
+</description>
+
+
+</item>
+<item>
+	<title>change to .travis.yml .travisdeploykey.enc on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_b6ca6fc11c26677ed501773227decb14088b274a/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-b6ca6fc11c26677ed501773227decb14088b274a</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 21:34:41 +0000</pubDate>
+	<dcterms:modified>2017-05-25T21:34:41Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-b6ca6fc11c26677ed501773227decb14088b274a&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/b6ca6fc11c26677ed501773227decb14088b274a&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.travis.yml
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/b6ca6fc11c26677ed501773227decb14088b274a&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.travisdeploykey.enc
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:34:41 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update Travis CI deploy key&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- b6ca6fc11c26677ed501773227decb14088b274a --&gt;
+</description>
+
+
+</item>
+<item>
+	<title>change to .travis.yml on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_1c7b772a7e9b742fad34965b404c4e8d8c739ab7/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-1c7b772a7e9b742fad34965b404c4e8d8c739ab7</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 21:27:55 +0000</pubDate>
+	<dcterms:modified>2017-05-25T21:27:55Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-1c7b772a7e9b742fad34965b404c4e8d8c739ab7&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/1c7b772a7e9b742fad34965b404c4e8d8c739ab7&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;.travis.yml
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:27:55 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add .travis.yml&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 1c7b772a7e9b742fad34965b404c4e8d8c739ab7 --&gt;
+</description>
+
+
+</item>
+
+</channel>
+</rss>

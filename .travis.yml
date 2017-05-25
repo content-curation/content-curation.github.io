@@ -1,3 +1,5 @@
+os: linux
+dist: trusty
 sudo: false
 language: perl
 addons:
@@ -18,7 +20,7 @@ install:
   - COMMIT_MESSAGE="Publishing site on `date "+%Y-%m-%d %H:%M:%S"` from
     `git log -n 1 --format='commit %h - %s'`"
   - GH_PAGES_REPO="git@github.com:${TRAVIS_REPO_SLUG}.git"
-  - GH_PAGES_BRANCH="gh-pages"
+  - GH_PAGES_BRANCH="master"
 script:
   #- set -e
   - ikiwiki --rebuild . _site
@@ -31,4 +33,4 @@ script:
 
 branches:
   only:
-    - master
+    - source

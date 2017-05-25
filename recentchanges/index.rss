@@ -8,7 +8,62 @@
 
 <description>Content Curation</description>
 <generator>ikiwiki</generator>
-<pubDate>Thu, 25 May 2017 22:08:00 +0000</pubDate>
+<pubDate>Thu, 25 May 2017 22:29:08 +0000</pubDate>
+<item>
+	<title>change to content-curation.setup on Content Curation</title>
+
+	<guid isPermaLink="false">http://content-curation.github.io//recentchanges/change_0c3c11e99b3a34b9ef2fb8241c202fba61a03216/</guid>
+
+	<link>http://content-curation.github.io/recentchanges/#change-0c3c11e99b3a34b9ef2fb8241c202fba61a03216</link>
+
+	<dc:creator>zaki.mughal</dc:creator>
+
+
+	<pubDate>Thu, 25 May 2017 22:29:08 +0000</pubDate>
+	<dcterms:modified>2017-05-25T22:29:08Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-0c3c11e99b3a34b9ef2fb8241c202fba61a03216&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://github.com/content-curation/content-curation.github.io/commit/0c3c11e99b3a34b9ef2fb8241c202fba61a03216&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://content-curation.github.io//recentchanges/../wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;content-curation.setup
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:29:08 PM 05/25/2017&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Change theme to actiontabs&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 0c3c11e99b3a34b9ef2fb8241c202fba61a03216 --&gt;
+</description>
+
+
+</item>
 <item>
 	<title>change to .travis.yml content-curation.setup on Content Curation</title>
 

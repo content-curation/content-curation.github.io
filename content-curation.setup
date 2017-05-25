@@ -306,7 +306,7 @@ multimarkdown: 1
 
 # theme plugin
 # name of theme to enable
-theme: goldtype
+theme: actiontabs
 
 # websetup plugin
 # list of plugins that cannot be enabled/disabled via the web interface

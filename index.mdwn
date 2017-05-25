@@ -1,0 +1,8 @@
+[[!meta title="Test page for content-curation"]]
+
+Testing the ikiwiki on Travis-CI.
+
+- <https://github.com/content-curation/content-curation.github.io>
+- [![Build Status](https://travis-ci.org/content-curation/content-curation.github.io.svg?branch=source)](https://travis-ci.org/content-curation/content-curation.github.io)
+
+Travis-CI configuration based off of [this blog post](http://ellismichael.com/technical/2015/06/12/using-travis-ci-with-github-pages/).

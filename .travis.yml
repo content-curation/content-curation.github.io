@@ -9,6 +9,7 @@ addons:
       - ikiwiki
       - libtext-multimarkdown-perl
       - libimage-magick-perl
+      - librsvg2-bin
 install:
   - openssl aes-256-cbc -K $encrypted_0b90377fb43c_key -iv $encrypted_0b90377fb43c_iv -in .travisdeploykey.enc -out .travisdeploykey -d
   - chmod go-rwx .travisdeploykey
